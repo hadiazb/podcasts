@@ -24,11 +24,11 @@
     "/_polyfills": [
       "static/runtime/polyfills.js"
     ],
-    "/index": [
+    "/channel": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ],
-    "/podcast": [
+    "/index": [
       "static/runtime/webpack.js",
       "static/runtime/main.js"
     ]
